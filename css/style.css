@@ -1,0 +1,165 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	margin:auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.logo{
+	width: 1500px;
+	height: 100px;
+	margin:0 auto;
+	font-family: "microsoft yahei";
+	font-size: 40px;
+	
+}
+
+.wenzi{
+	text-align: center;
+	margin:0 auto;
+}
+.banner{
+    width: 1150px;
+    height: 443px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.banner img{
+    width: 1150px;
+    height: 443px;
+   
+}
+
+.tupian{
+	width: 1150px;
+    height: 443px;
+	margin:0 auto;
+	
+}
+.banner:hover img{
+	transform: scale(1.1,1.1)
+}
+
+.aboutus{
+    width: 1500px;
+    height: 570px;
+    margin: 0 auto;
+    border-bottom: 6px solid #3323B2;
+    padding-top: 50px;
+    position: relative;
+}
+
+.tittle{
+	width: 631px;
+	text-align: center;
+	font-size: 32px;
+	font-family: "microsoft yahei";
+	font-weight: bold;
+	margin: 0 auto;
+	background: url(../img/xian.png) no-repeat 0 50%;
+
+}
+
+.aboutus img{
+    width: 339.5px;
+    height: 480px;
+    top: 102px;
+    left: 182px;
+    position: absolute;
+}
+
+.jieshao{
+    width: 182px;
+    height: 73px;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-family: "microsoft yahei";
+    font-weight: bold;
+    background-color: #3423B2;
+    text-align: center;
+    line-height: 80px;
+    position: absolute;
+    left: 521px;
+    bottom: 437px;
+    z-index: 99;
+}
+
+.neirong{
+    width: 739px;
+    height: 370px;
+    font-size: 16px;
+    background-color: #F5F5F5;
+    position: absolute;
+    left: 521px;
+    bottom: 61px;
+    z-index: 1;
+    padding-top: 18px;
+    padding-right: 24px;
+    padding-left: 32px;
+    padding-bottom: 0;
+}
+
+.neirong p{
+	font-size: 18px;
+	line-height: 20px;
+	color: #333333;
+	
+}
+
+.show{
+    width: 1500px;
+    height: 4140px;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+}
+
+.gallery{
+    width: 1500px;
+    height: 4100px;
+    margin: auto 0;	
+}
+
+.chanpinphoto img{
+	width:600px;
+	height:350px;
+    margin-right: 0px;
+    margin-bottom: 0;
+}
+
+.box{
+	width:600px;
+	height:350px;
+	margin-left: 95px;
+	overflow: hidden;
+	margin-top: 20px;
+	float: left;
+}
+
+.chanpinphoto:hover img{
+	transform: scale(1.1,1.1)
+}
+
+.bottom{
+    width: 1150px;
+    height: 70px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    text-align: center;
+    font-family: "microsoft yahei";
+    color: #333333;
+}
+
+.bottom dibu{
+	width: 1150px;
+    height: 100%;
+	font-size: 18px;
+	line-height: 133px;
+	margin:0 auto;
+	margin-right: auto;
+	
+}
